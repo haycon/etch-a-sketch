@@ -5,7 +5,7 @@ body {
 
 #main {
     border: 1px solid black;
-    height: 420px;
+    height: 400px;
     width: 408px;
     margin: 0 auto;
 }
@@ -14,7 +14,7 @@ body {
     border: 1px solid black;
     height: 100px;
     width: 100px;
-    display: inline-block;
+    float: left
 }
 
 #reset {
